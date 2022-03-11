@@ -14,6 +14,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfrozas)](https://github.com/jfrozas/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jfrozas&show_icons=true&locale=en&layout=compact" alt="jfrozas" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jfrozas&show_icons=true&locale=en" alt="jfrozas" /></p>
