@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-
 <p align="left">
 </p>
 
