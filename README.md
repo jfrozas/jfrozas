@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Javier.</h1>
-<h3 align="center">A student of the UDC.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jfrozas&label=Profile%20views&color=0e75b6&style=flat" alt="jfrozas" /> </p>
 
-- 🔭 I’m currently studying **computer science**
+- 🔭 I’m currently studying **computer science** at the UDC
 
 - 🌱 I’m currently learning **machine learning**
 
