@@ -14,3 +14,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfrozas)](https://github.com/jfrozas/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jfrozas&layout=compact)](https://github.com/jfrozas/github-readme-stats)
+
