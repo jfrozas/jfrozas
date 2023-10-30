@@ -1,7 +1,6 @@
 ![Cream Minimalist Virtual Assistant Facebook Cover Photo](https://github.com/jfrozas/jfrozas/assets/91458621/bfe54019-fbea-4017-b7f5-92208f0f8a72)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jfrozas&label=Profile%20views&color=0e75b6&style=flat" alt="jfrozas" /> </p>
+- I am a Software Engineering Student at Universidade de A Coruña (A Coruña, Galicia, Spain).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
