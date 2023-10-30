@@ -1,1 +1,1 @@
-<img src="{(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username})}" />
+![image]({https://github-readme-streak-stats.herokuapp.com/?user={jfrozas}})
