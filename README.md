@@ -1,1 +1,1 @@
-<img src="{[BadgeURLHere](https://github-readme-stats.vercel.app/api/top-langs/?username={username})https://github-readme-stats.vercel.app/api/top-langs/?username={jfrozas}}" />
+<img src="{(https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username})}" />
