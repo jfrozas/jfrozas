@@ -1,4 +1,4 @@
-![Cream Minimalist Virtual Assistant Facebook Cover Photo](https://github.com/jfrozas/jfrozas/assets/91458621/bfe54019-fbea-4017-b7f5-92208f0f8a72)
+![foto](https://github.com/jfrozas/jfrozas/assets/91458621/2f324611-a887-459d-86e6-bcc40c8d63a3)
 
 - I am a Software Engineering Student at Universidade de A Coruña (A Coruña, Galicia, Spain).
 
